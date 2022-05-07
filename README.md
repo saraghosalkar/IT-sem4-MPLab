@@ -3,8 +3,8 @@
 9th May in Room Number 1004
 
 ## Installation : 
-Dosbox : https://www.dosbox.com/download.php?main=1
-    Windows : https://www.youtube.com/watch?v=m1e8RfmsCNI
+Dosbox : https://www.dosbox.com/download.php?main=1 <br />
+    Windows : https://www.youtube.com/watch?v=m1e8RfmsCNI <br />
     Mac : https://www.youtube.com/watch?v=YYXdXT2l-Gg
 
 Logisim : https://sourceforge.net/projects/circuit/
