@@ -9,8 +9,9 @@ Dosbox : https://www.dosbox.com/download.php?main=1 <br />
 
 Logisim : https://sourceforge.net/projects/circuit/
 
-Proteus : https://youtu.be/MEC7iiK6nV4
-          https://www.labcenter.com/downloads/
+Proteus : https://youtu.be/MEC7iiK6nV4 <br />
+https://www.youtube.com/watch?v=LseoDdRGDkA <br />
+https://www.labcenter.com/downloads/
 
 ## List of assignments : 
 
